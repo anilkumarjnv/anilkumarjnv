@@ -212,7 +212,7 @@ Analytics Pipelines
 <div align="center">
 
 ```
-2022  ──────────────────────────────────────────────────────────────  2025
+2024  ──────────────────────────────────────────────────────────────  2026
 
   Trendel                  Quantumcona              Quantumcona
   Flutter Developer   →    React Native Intern   →  Software Engineer I

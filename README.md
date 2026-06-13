@@ -244,7 +244,7 @@ Analytics Pipelines
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumar310/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumar3101/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumargorrela31@gmail.com)
 

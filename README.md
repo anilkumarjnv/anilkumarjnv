@@ -234,7 +234,7 @@ Analytics Pipelines
 | 2024 | Flutter Developer | Trendel | Built multi-vendor ecommerce platform with BLoC architecture |
 | 2024 | React Native Intern | Quantumcona | Transitioned from Flutter, shipped first RN product |
 | 2025 – Present | Software Engineer I | Quantumcona | Sole mobile engineer on Paymorz fintech platform |
-| 2026 – Present | Founder | Cardfil | Built & launched full-stack NFC/QR SaaS from zero |
+| 2026 – Present | Founder | Cardfil | Built & launched full-stack NFC/QR SaaS from zero 
 
 ---
 

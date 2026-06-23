@@ -32,7 +32,7 @@ Currently the **sole mobile engineer** at a fintech company, where I own the ful
 
 Outside of work, I'm the founder of **Cardfil**, a SaaS platform for NFC and QR-based digital business cards. Built the entire product myself: frontend, backend, payments, subscriptions, and analytics.
 
-I don't follow tutorials to build demo apps. I solve real engineering problems in production environments with real users depending on the product
+I don't follow tutorials to build demo apps. I solve real engineering problems in production environments with real users depending on the product.
 
 ---
 
